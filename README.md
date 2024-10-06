@@ -1,5 +1,5 @@
 - **Nama  : Alief Gymnastiar**
-- **Kelas : IKRA**
+- **Kelas : 5IKRA**
 - **NIM   : 220202617**
 
 # Aplikasi Web Caesar Cipher
@@ -13,7 +13,7 @@ Aplikasi ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi pesan deng
 - **Key (Kunci)**: Pengguna dapat memasukkan **key** sebagai nilai geser untuk mengontrol pergeseran karakter dalam proses enkripsi dan dekripsi.
 - **Enkripsi**: Mengubah teks asli (plaintext) menjadi teks sandi (ciphertext) dengan menggeser karakter sesuai nilai **key** yang dimasukkan oleh pengguna.
 - **Dekripsi**: Mengembalikan pesan asli dengan membalikkan pergeseran karakter sesuai dengan **key** yang dimasukkan.
-- **Desain Responsif**: Antarmuka yang responsif dibuat menggunakan CSS, sehingga dapat diakses di berbagai perangkat.
+
 
 ## Teknologi yang Digunakan
 - **HTML5**: Untuk struktur halaman web.
