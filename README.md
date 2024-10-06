@@ -1,6 +1,6 @@
-**Nama  : Alief Gymnastiar**
-**Kelas : IKRA**
-**NIM   : 220202617**
+- **Nama  : Alief Gymnastiar**
+- **Kelas : IKRA**
+- **NIM   : 220202617**
 
 # Aplikasi Web Caesar Cipher
 
@@ -29,4 +29,4 @@ Aplikasi ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi pesan deng
 ## Cara Menggunakan Proyek Ini
 1. Clone repository ini ke komputer lokal Anda:
    ```bash
-   git clone https://github.com/username/caesar-cipher.git
+   git clone https://github.com/AliefGr/Caesar-Chiper.git
