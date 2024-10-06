@@ -1,6 +1,6 @@
-#Nama : Alief Gymnastiar
-#Kelas : IKRA
-#NIM : 220202617
+## Nama  : Alief Gymnastiar
+## Kelas : IKRA
+## NIM   : 220202617
 
 # Aplikasi Web Caesar Cipher
 
